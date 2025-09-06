@@ -1,6 +1,6 @@
 # Document Extraction and LabelStudio Preparation Pipeline
 
-Welcome to the **Document Extraction v1** project! This tool automates the conversion and preparation of PDF and Excel files for annotation in LabelStudio, streamlining workflows for data annotation tasks in machine learning and document processing pipelines.
+Welcome to the **LABELSTUDIO_PIPELINE** project! This tool automates the conversion and preparation of PDF and Excel files for annotation in LabelStudio, streamlining workflows for data annotation tasks in machine learning and document processing pipelines.
 
 ## Overview
 
@@ -20,8 +20,7 @@ Developed by a skilled engineer with expertise in Python, OCR, and data processi
 ## Project Structure
 
 ```
-doc_extraction_v1/
-├── __pycache__/
+LABELSTUDIO_PIPELINE/
 ├── converters/
 │   ├── excel_to_pdf.py
 │   ├── pdf_to_images.py
@@ -48,8 +47,8 @@ doc_extraction_v1/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/doc_extraction_v1.git
-   cd doc_extraction_v1
+   git clone https://github.com/aychachouchene/Document-Extraction-and-LabelStudio-Preparation-Pipeline.git
+   cd LABELSTUDIO_PIPELINE
    ```
 
 2. **Install Dependencies**:
@@ -114,4 +113,5 @@ Please ensure code follows PEP 8 standards and includes tests where applicable.
 This project is under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or collaboration, reach out at [your-email@example.com](mailto:your-email@example.com). Let’s build innovative solutions together!
+For questions or collaboration, reach out at [aycha.chouchene@etudiant-enit.utm.tn](mailto:aycha.chouchene@etudiant-enit.utm.tn)
+ or [choucheneaycha03@gmail.com](mailto:choucheneaycha03@gmail.com).
