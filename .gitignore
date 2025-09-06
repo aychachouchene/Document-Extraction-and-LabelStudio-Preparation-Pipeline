@@ -1,0 +1,26 @@
+# Environnement virtuel
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+# Dossiers Python compilés
+__pycache__/
+*.py[cod]
+*.so
+
+# Fichiers de logs ou caches
+*.log
+*.tmp
+
+# Fichiers JSON d’output (si générés automatiquement)
+*.json
+
+# Configuration de l’éditeur
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+data/
